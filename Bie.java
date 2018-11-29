@@ -1,3 +1,6 @@
+```
+
+
 public class Cuatre{
     static final char ESPAI=' ';
     public static void Exercici4(){
@@ -31,3 +34,5 @@ public class Cuatre{
         }
     }
 }
+
+```
