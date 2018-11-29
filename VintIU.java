@@ -54,7 +54,7 @@ public class VintIU{
      * @param vector li pasem un array buit.
      */
     public static void crearArray(int []vector){
-        int max=60;
+        int max=90;
         int min=0;
         for (int i=0; i<vector.length; i++){
             int num=rnd.nextInt(max-min+1)-min;
