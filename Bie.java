@@ -9,7 +9,6 @@ public class Cuatre{
         int numeroConsonants=0;
         int numeroVocals=0;
         System.out.print("Introduixca una frase: ");
-        frase=Main.lector.nextLine();
         fraseMin=frase.toLowerCase();
         arrayFrase=fraseMin.split(" ");
         for(String acumulador:arrayFrase){
